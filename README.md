@@ -1,2 +1,2 @@
 # MyAddAndSubView
-https://raw.githubusercontent.com/wu-liao-de-ren-sheng/MyAddAndSubView/png/view.png
+https://github.com/wu-liao-de-ren-sheng/MyAddAndSubView/blob/master/png/view.png
